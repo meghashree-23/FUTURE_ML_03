@@ -1,0 +1,11 @@
+,ID,Category,final_score,text_score,skill_score,missing_required,missing_preferred
+1,46260230,INFORMATION-TECHNOLOGY,0.88,0.96,0.79,['sql'],"['aws', 'azure']"
+2,27295996,INFORMATION-TECHNOLOGY,0.76,0.88,0.63,"['networking', 'troubleshooting']","['aws', 'database', 'problem solving']"
+3,11957080,INFORMATION-TECHNOLOGY,0.75,0.81,0.68,['networking'],"['aws', 'azure', 'project management', 'testing']"
+4,39413067,INFORMATION-TECHNOLOGY,0.73,0.78,0.68,"['linux', 'networking']","['aws', 'azure']"
+5,18301617,INFORMATION-TECHNOLOGY,0.73,0.62,0.84,[],"['aws', 'azure', 'problem solving']"
+6,22450718,INFORMATION-TECHNOLOGY,0.7,0.76,0.63,"['networking', 'sql']","['aws', 'azure', 'project management']"
+7,29051656,INFORMATION-TECHNOLOGY,0.69,0.64,0.74,['networking'],"['azure', 'project management', 'testing']"
+8,28126340,INFORMATION-TECHNOLOGY,0.66,0.65,0.68,['troubleshooting'],"['aws', 'azure', 'communication', 'problem solving']"
+9,90867631,INFORMATION-TECHNOLOGY,0.65,0.67,0.63,"['linux', 'networking']","['aws', 'azure', 'problem solving']"
+10,17641670,INFORMATION-TECHNOLOGY,0.64,0.8,0.47,"['linux', 'sql', 'technical support']","['aws', 'azure', 'database', 'problem solving']"
